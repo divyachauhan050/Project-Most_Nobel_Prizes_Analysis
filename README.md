@@ -6,5 +6,5 @@ And much more!
 
 ## About the Datasets
 
-I have used one datasets (courtesy of Datacamp and Kaggle) for the analysis.
+I have used one datasets (courtesy of Datacamp and Kaggle) for the analysis.  
 **‘nobel.csv’** contains a record for every individual or organization that was awarded the Nobel Prize since its inception in 1901.
