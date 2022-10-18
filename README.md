@@ -7,4 +7,4 @@ And much more!
 ## About the Datasets
 
 I have used one dataset (courtesy of Datacamp and Kaggle) for the analysis.  
-**‘nobel.csv’** contains a record for every individual or organization that was awarded the Nobel Prize since its inception in 1901.
+**‘nobel.csv’** contains a record for every individual or organization that was awarded the Nobel Prize since its inception in 1901. As
