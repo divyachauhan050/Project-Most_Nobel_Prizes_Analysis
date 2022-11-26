@@ -12,4 +12,4 @@ I have used one dataset (courtesy of Datacamp and Kaggle) for the analysis.
 ## Key Findings
 These are some of the key findings for this project:
 
-1. Most of the nobel prize winners were male until recently.
+1. Most of the nobel prize winners were male until.
