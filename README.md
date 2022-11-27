@@ -14,10 +14,10 @@ These are some of the key findings for this project:
 
 1. The first Nobel Prize was handed out in **1901**, and at that time the Prize was very **Eurocentric** and **male-focused**.
    <br> </br>
-   ![Gender](https://user-images.githubusercontent.com/75243291/204132762-3119e736-6e11-46bb-87d6-01b9731ac6ca.PNG)
+   ![Gender](https://user-images.githubusercontent.com/75243291/204132857-6841c3a9-a0d4-4a9d-a954-6d8b1fa0a5cc.PNG)
 
 2. The most common Nobel laureate between 1901 and 2016 was a *man* born in the **United States of America**. But in **1901** all the winners were European.
    <br> </br>
-   ![Country](https://user-images.githubusercontent.com/75243291/204132787-a8dc43b0-b0c0-42cf-8d3f-280858c15776.PNG)
+   ![Country](https://user-images.githubusercontent.com/75243291/204132873-87c3de46-3a46-4235-920f-f42a550cd283.PNG)
 
 3. The
