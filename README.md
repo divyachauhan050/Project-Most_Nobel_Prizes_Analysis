@@ -12,6 +12,6 @@ I have used one dataset (courtesy of Datacamp and Kaggle) for the analysis.
 ## Key Findings
 These are some of the key findings for this project:
 
-1. The first Nobel Prize was handed out in 1901, and at that time the Prize was very Eurocentric and male-focused
+1. The first Nobel Prize was handed out in **1901**, and at that time the Prize was very **Eurocentric** and **male-focused**.
 
-2. Just looking at the first couple of prize winners, or Nobel laureates as they are also called, we see that all of the winners in 1901 were guys that came from Europe. 
+2. The most common Nobel laureate between 1901 and 2016 was a *man* born in the **United States of America**. But in **1901** all the winners were European. 
