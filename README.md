@@ -20,4 +20,4 @@ These are some of the key findings for this project:
    <br> </br>
    ![Country](https://user-images.githubusercontent.com/75243291/204132873-87c3de46-3a46-4235-920f-f42a550cd283.PNG)
 
-3. The relevant
+3. The relevant name
